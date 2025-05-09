@@ -1,0 +1,167 @@
+.hero{
+  margin: -1rem -1rem 1rem;
+  height: 120svh;
+  color: white;
+  font-weight: 900;
+  font-size: 3em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #3a3f2d;
+  background-image: url(images/HERO5.png);
+  background-size: cover;
+  font-family: serif;
+  background-position: 47% 76%;
+}
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+@font-face {
+  font-family: 'Forza-Black';
+  src: url('fonts/Forza-Black2') format('woff2'),
+       url('fonts/Forza-Black.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+#About h2{
+  font-family:'Forza-Black', sans serif ;
+  color: white;
+  font-size: 45px;
+}
+#About p{
+  color: white;
+}
+#About{
+  background-color:rgb(181,153,206);
+}
+
+#About img{
+  width:500px;
+}
+
+#Schedule h2{
+  font-family:'Forza-Black', sans serif ;
+  font-size: 45px;
+}
+#Schedule{
+  background-color:rgb(203,182,119)!important;
+}
+
+#Schedule img{
+  width:150px;
+  height:80px;
+}
+
+#Alumni h2{
+   font-family:'Forza-Black', sans serif;
+   color: white;
+   font-size: 45px;
+}
+
+#Alumni{
+  background-color: rgb(69,0,132);
+}
+#Alumni p{
+  color:white;
+}
+
+#abutton{
+      padding: 5px 10px;
+      font-size: 12px;
+      background-color: rgb(203,182,119);
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      width: 150px;
+
+    }
+
+#Alumni img{
+  width: 400px;
+}
+
+#Join h2{
+  font-family:'Forza-Black', sans serif ;
+  color: white;
+  font-size: 45px;
+}
+#Join p{
+  color: white;
+}
+
+#Join{
+  background-color:rgb(181,153,206) ;
+
+}
+#Service h2{
+  font-family:'Forza-Black', sans serif ;
+  font-size: 45px;
+}
+#Service{
+  background-color: rgb(203,182,119);
+}
+
+#Merch h2{
+  font-family:'Forza-Black', sans serif ;
+  font-size: 45px;
+  color: white;
+}
+
+#Merch{
+  background-color:rgb(69,0,132);
+}
+#Merch p{
+  color: white;
+}
+.img-thumbnail{
+  width:250px;
+}
+#carouselExample2{
+  width:600px;
+}
+
+#Roster{
+  background-color:rgb(181,153,206);
+}
+#Roster h2{
+  font-family:'Forza-Black', sans serif ;
+  color:white;
+  font-size: 45px;
+}
+#Roster p{
+  color:rgb(203,182,119);
+}
+#Donate h2{
+  font-family:'Forza-Black', sans serif ;
+  align-content: center;
+  font-size: 45px;
+}
+
+#Donate{
+  background-color:rgb(203,182,119) ;
+}
+#Donate img{
+  width: 475px;
+  height: 350px
+
+}
+
+#bbutton{
+      padding: 5px 10px;
+      font-size: 12px;
+      background-color:rgb(69,0,132);
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      width: 300px;
+
+    }
+
+a{
+  font-family:'Forza-Black', sans serif ;
+}
+.nav-link{
+  color:rgb(203,182,119)!important;
+}
